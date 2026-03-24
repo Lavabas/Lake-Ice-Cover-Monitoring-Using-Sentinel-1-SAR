@@ -68,9 +68,3 @@ Overall, the analysis demonstrates that Sentinel-1 VV backscatter is highly effe
 2. Weekly aggregation helps in identifying seasonal trends more clearly
 3. This workflow is scalable and can be applied to other lakes globally
 4. Integration of GEE + Python enables efficient handling of large spatiotemporal datasets
-
-
-
-Use multi-polarization SAR (VV + VH) for improved accuracy
-
-Validate results with in-situ observations
